@@ -1,5 +1,5 @@
 ###############################################################################
-Instructions to which files to place here
+Instructions for which files to place here
 ###############################################################################
 
 Place only the factor files here. Preferrably all factors in a csv already.
